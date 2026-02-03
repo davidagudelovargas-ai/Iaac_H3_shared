@@ -1,0 +1,11 @@
+[project]
+name = "iaac-h3"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.14"
+dependencies = [
+    "dotenv>=0.9.9",
+    "specklepy>=3.2.3",
+    "gql[websockets]>=3.5.0",
+]

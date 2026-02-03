@@ -1,0 +1,45 @@
+{
+  "projectId": "a2d4f63c4b",
+  "objectId": "89bac5c2e9c810422539cde258111990",
+  "timestamp": "2026-02-02T23:34:07.439Z",
+  "data": {
+    "id": "89bac5c2e9c810422539cde258111990",
+    "name": "RhinoSpeckle.3dm",
+    "units": "mm",
+    "version": 3,
+    "elements": [
+      {
+        "__closure": null,
+        "referencedId": "8a7d59ef4fbba8fc47f51405f29bbfd2",
+        "speckle_type": "reference"
+      }
+    ],
+    "__closure": {
+      "17078c34b2aaf0c359b4f6b888ee19fd": 3,
+      "4da08357e2ab9f79a581eec5d2b479a3": 4,
+      "62fcbfcf19b8958ea597321624d76ea5": 2,
+      "8a7d59ef4fbba8fc47f51405f29bbfd2": 1,
+      "b14d0598293a11e882cee9818780df90": 3,
+      "d7d027dbfdbdd8ce18bc0048994a9993": 4
+    },
+    "colorProxies": [
+      {
+        "id": "47a84a5261ea4e4ee6fe298a099c5bfe",
+        "name": null,
+        "value": -16777216,
+        "source": "object",
+        "objects": [
+          "6f54172d-de6e-4817-a78a-c57a3a0dd9bf"
+        ],
+        "speckle_type": "Speckle.Core.Models.Proxies.ColorProxy",
+        "applicationId": "color_Color [A=255, R=0, G=0, B=0]_object"
+      }
+    ],
+    "groupProxies": [],
+    "speckle_type": "Speckle.Core.Models.Collections.Collection",
+    "applicationId": null,
+    "collectionType": null,
+    "renderMaterialProxies": [],
+    "instanceDefinitionProxies": []
+  }
+}
