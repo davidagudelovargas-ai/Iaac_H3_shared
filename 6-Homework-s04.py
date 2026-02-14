@@ -16,7 +16,7 @@ load_dotenv()
 
 # Your Speckle token
 YOUR_TOKEN =  os.environ.get("SPECKLE_TOKEN")
-PROJECT_ID = "a2d4f63c4b"
+PROJECT_ID = os.getenv("SPECKLE_PROJECT_ID", "3d70848e9c")  # opcional, fallback
 
 # Define the subscription query
 subscription_query = gql("""
